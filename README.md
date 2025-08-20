@@ -1,22 +1,13 @@
 # Untitled Base Project
 
-A sample demonstration project showcasing modern web development concepts and UI design patterns.
-
-## Features
-
-- **Modern UI Design**: Clean, minimalist interface with retro aesthetic
-- **Responsive Layout**: Mobile-first design that works on all devices
-- **Interactive Components**: Dynamic elements with smooth animations
-- **Custom Styling**: Unique monospace design with Tailwind CSS
-- **Component Architecture**: Well-structured React components for maintainability
+a retro and modernistic styling for the future of web design
 
 ## Tech Stack
 
 - **Framework**: Next.js 14 with App Router
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
-- **UI**: Custom monospace design with retro aesthetic
-- **Deployment**: Ready for Vercel/Netlify
+- **Deployment**: Ready for Vercel/Netlify or whichever
 
 ## Getting Started
 
@@ -44,7 +35,7 @@ untitled-base/
 ├── components/            # Reusable React components
 │   └── LoadingSpinner.tsx # Loading component
 ├── public/               # Static assets
-└── lib/                  # Utility functions and configurations
+└── lib/                  # Utility functions and configurations 
 ```
 
 ## Development
@@ -53,14 +44,6 @@ untitled-base/
 - **Build**: `npm run build`
 - **Start production**: `npm start`
 - **Lint**: `npm run lint`
-
-## Styling
-
-The project uses a distinctive monospace design with:
-- Black borders and retro styling
-- Tailwind CSS for utility classes
-- Inter font family for modern typography
-- Custom Discord widget integration
 
 ## Contributing
 
